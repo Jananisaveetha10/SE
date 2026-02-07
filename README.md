@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-NAME : SRINITHI MUTHUKUMAR
-REG NO : 212224240161
+NAME : JANANI S
+REG NO : 212224040127
 
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
